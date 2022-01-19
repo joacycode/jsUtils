@@ -1,2 +1,2 @@
-# jspackage
-package functions for js
+# jsUtils
+js常用函数库
